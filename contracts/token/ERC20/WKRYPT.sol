@@ -1,3 +1,7 @@
+// SPDX-License-Identifier: MIT
+
+pragma solidity 0.8.7;
+
 contract WKRYPT is IKRYPT {
     string public name = "Wrapped Kryptoken";
     string public symbol = "WKRYPT";
